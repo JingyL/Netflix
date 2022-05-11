@@ -14,4 +14,4 @@ Two tables for the database are users and movies. The basic data be looked like 
 ###  User Flow:
 Users have to signup/login first, and then they can see different sections of movies based on their movie type. After clicking on the movie, the short video will pop up. Users can like the movie or save it to future list.
 
-
+## TODO list:
