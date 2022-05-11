@@ -1,0 +1,6 @@
+[submodule "netflix-frontend"]
+	path = netflix-frontend
+	url = git@github.com:JingyL/netflix-frontend.git
+[submodule "netflix-backend"]
+	path = netflix-backend
+	url = git@github.com:JingyL/netflix-backend.git
