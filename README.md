@@ -1,7 +1,7 @@
 # Netflix-Clone
 Netflix-Clone is a full stack application frontend with React and backend with Node. Users can search movies, watch trailer and save and like dmovies.
 
-Demo Link: jeflix.surge.sh
+Demo Link: jeflix.surge.sh (Due to the free tier canceled from heroku, I switched to Render free tier, but it's way much slower than heroku. It would be better to download my backend and frontend, and run locally.)
 
 test username: JJ2718
 
